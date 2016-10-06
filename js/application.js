@@ -428,7 +428,7 @@
       }, "Nomor Order"), React.createElement(FormControl, {
         "id": "order_number",
         "value": (orderNumber != null ? orderNumber.value : void 0),
-        "placeholder": "Nomor Order",
+        "placeholder": "isikan dengan angka 555 or 888",
         "onChange": this.onOrderNumberChanged
       }), React.createElement(Button, {
         "className": "btn btn-primary",
